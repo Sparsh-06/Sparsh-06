@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sparsh Sharma</h1>
 <h3 align="center">A passionate frontend developer from Haryana, India</h3>
-<img align="right" alt="coding">
 - 🔭 I’m currently working on **a new project**
 
 - 🌱 I’m currently exploring **Courses related to AI and programming**
